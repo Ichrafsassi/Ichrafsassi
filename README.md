@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋  
 
-Hi there! I'm a **Software Engineer** passionate about building impactful software solutions and continuously growing in the tech field. I specialize in **full-stack development**, **cybersecurity**, and **IoT**, with hands-on experience in diverse technologies and frameworks.
+Hi there! I'm a **Software Engineer** passionate about building impactful software solutions and continuously growing in the tech field. I specialize in **full-stack development** and **IoT**, with hands-on experience in diverse technologies and frameworks.
 
 ## 🛠️ Skills  
 - **Programming Languages:** JavaScript, TypeScript, Python, PHP  
