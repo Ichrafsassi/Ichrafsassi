@@ -9,8 +9,6 @@ Hi there! I'm a **Software Engineer** passionate about building impactful softwa
 - **Databases:** SQL, MongoDB  
 - **Tools & Platforms:** XAMPP, Android Studio, Linux  
 
-## 📜 Certifications  
-- **Red Hat Systems Engineering Certification** (In Progress)
 
 ## 🌱 Current Learning  
 - **Flutter Development**  
