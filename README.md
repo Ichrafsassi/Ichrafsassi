@@ -15,4 +15,4 @@ Hi there! I'm a **Software Engineer** passionate about building impactful softwa
 - Mastering advanced **MERN stack** skills  
 
 ## 💼 Professional Experience  
-- **Volunteer Work:** Contributed to **The Tann Mann Gaadi** company, enhancing their software systems using **MERN** and **Next.js**.  
+- **Volunteer Work:** Contributed to **The Tann Mann Gaadi** company, software Tester.  
